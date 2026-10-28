@@ -1,0 +1,6 @@
+{
+  "name": "Fish Fishing - AdMob Utility & Impression Inspector",
+  "description": "Specialized mobile utility tool for AdMob ad testing, ID management, impression tracking, and IP network inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
